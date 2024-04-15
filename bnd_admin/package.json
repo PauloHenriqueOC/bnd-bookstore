@@ -1,0 +1,12 @@
+{
+  "name": "bnd_admin",
+  "version": "1.0.0",
+  "description": "A module for list and edit Books and Cathegories at BND.",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paulohoc1@yahoo.com.br",
+  "license": "ISC"
+}
